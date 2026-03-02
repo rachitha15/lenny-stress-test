@@ -1,6 +1,6 @@
 # Lenny Stress Test Plugin
 
-Test your PRD assumptions against real insights from [Lenny Rachitsky's podcast](https://www.lennyspodcast.com/) guests. This Claude Code plugin helps product managers validate their thinking by surfacing relevant experiences from 500+ podcast episodes.
+Test your PRD assumptions against real insights from [Lenny Rachitsky's podcast](https://www.lennyspodcast.com/) guests. This Claude Code plugin helps product managers validate their thinking by surfacing relevant experiences from 269 podcast episodes.
 
 ## What It Does
 
