@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "lenny-lens": {
+      "type": "http",
+      "url": "https://lenny-lens-production.up.railway.app",
+      "headers": {
+        "x-api-key": "engage2025"
+      }
+    }
+  }
+}

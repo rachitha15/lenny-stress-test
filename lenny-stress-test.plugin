@@ -1,0 +1,22 @@
+{
+  "name": "lenny-stress-test",
+  "version": "1.0.0",
+  "description": "Test PRD assumptions against insights from Lenny Rachitsky's podcast guests",
+  "author": "Rachitha Suresh",
+  "skills": [
+    {
+      "name": "stress-test",
+      "description": "Stress test PRD assumptions using Lenny Lens API",
+      "path": "skills/stress-test"
+    }
+  ],
+  "mcpServers": {
+    "lenny-lens": {
+      "type": "http",
+      "url": "https://lenny-lens-production.up.railway.app",
+      "headers": {
+        "x-api-key": "engage2025"
+      }
+    }
+  }
+}
